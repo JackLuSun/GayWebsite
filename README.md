@@ -1,2 +1,1 @@
-# GayWebsite
-A website for gay-friends
+A website for SOMETHING.
